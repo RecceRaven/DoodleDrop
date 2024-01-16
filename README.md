@@ -18,7 +18,7 @@ Installation is not required when viewing the application using a web browser. H
   npm i
 
   mysql -u root -pYOURPASSWORDHERE
-  mysql source schema.sql
+  mysql source db/schema.sql
   mysql use doodle_db
   quit
 
